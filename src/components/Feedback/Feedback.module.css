@@ -1,0 +1,18 @@
+.listBtn {
+  list-style: none;
+  display: flex;
+}
+
+.btn {
+  margin-right: 15px;
+  padding: 2px 16px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.btn:active {
+  color: #ffffff;
+  background-color: #228ae6;
+}
